@@ -8,7 +8,6 @@ import retrofit2.http.Path
 import retrofit2.http.Query
 
 interface ApiService {
-
     @GET("search/users")
     suspend fun getSearchUser(
         @Query("q") q: String
