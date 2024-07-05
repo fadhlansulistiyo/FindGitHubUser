@@ -14,6 +14,12 @@ Find GitHub User is an Android application designed to search for GitHub users a
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
 - [Coroutine](https://kotlinlang.org/docs/coroutines-overview.html)
 
+## Application Demo
+
+Here are some screenshots demonstrating the application features:
+
+<img src="screenshots/home_screenshot.png" alt="Search User" width="250"/> <img src="screenshots/search_user.png" alt="Search User" width="250"/> <img src="screenshots/user_details.png" alt="User Details" width="250"/> <img src="screenshots/favorites.png" alt="Favorites" width="250"/> <img src="screenshots/dark_mode.png" alt="Dark Mode" width="250"/>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -45,12 +51,6 @@ These instructions will get you a copy of the project up and running on your loc
 3. Click on a user to view their detailed information.
 4. Add users to your favorites list.
 5. Toggle between light and dark modes in the settings.
-
-## Application Demo
-
-Here are some screenshots demonstrating the application features:
-
-<img src="screenshots/home_screenshot.png" alt="Search User" width="250"/> <img src="screenshots/search_user.png" alt="Search User" width="250"/> <img src="screenshots/user_details.png" alt="User Details" width="250"/> <img src="screenshots/favorites.png" alt="Favorites" width="250"/> <img src="screenshots/dark_mode.png" alt="Dark Mode" width="250"/>
 
 ## Contributing
 
