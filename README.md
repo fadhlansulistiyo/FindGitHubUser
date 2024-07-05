@@ -46,6 +46,25 @@ These instructions will get you a copy of the project up and running on your loc
 4. Add users to your favorites list.
 5. Toggle between light and dark modes in the settings.
 
+## Application Demo
+
+Here are some screenshots demonstrating the application features:
+
+![Home](screenshots/home_screenshot.png)
+*Home Page*
+
+![Search User](screenshots/search_user.png)
+*Search for GitHub users*
+
+![User Details](screenshots/user_details.png)
+*View detailed information of users*
+
+![Favorites](screenshots/favorites.png)
+*Add users to the favorites list*
+
+![Dark Mode](screenshots/dark_mode.png)
+*Toggle between light and dark modes*
+
 ## Contributing
 
 1. Fork the repository.
