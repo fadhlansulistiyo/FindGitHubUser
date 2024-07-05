@@ -50,7 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Here are some screenshots demonstrating the application features:
 
-<img src="screenshots/home_screenshot.png" alt="Search User" width="280"/> <img src="screenshots/search_user.png" alt="Search User" width="280"/> <img src="screenshots/user_details.png" alt="User Details" width="280"/> <img src="screenshots/favorites.png" alt="Favorites" width="280"/> <img src="screenshots/dark_mode.png" alt="Dark Mode" width="280"/>
+<img src="screenshots/home_screenshot.png" alt="Search User" width="250"/> <img src="screenshots/search_user.png" alt="Search User" width="250"/> <img src="screenshots/user_details.png" alt="User Details" width="250"/> <img src="screenshots/favorites.png" alt="Favorites" width="250"/> <img src="screenshots/dark_mode.png" alt="Dark Mode" width="250"/>
 
 ## Contributing
 
