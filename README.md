@@ -50,20 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Here are some screenshots demonstrating the application features:
 
-![Home](screenshots/home_screenshot.png)
-*Home Page*
-
-![Search User](screenshots/search_user.png)
-*Search for GitHub users*
-
-![User Details](screenshots/user_details.png)
-*View detailed information of users*
-
-![Favorites](screenshots/favorites.png)
-*Add users to the favorites list*
-
-![Dark Mode](screenshots/dark_mode.png)
-*Toggle between light and dark modes*
+<img src="screenshots/home_screenshot.png" alt="Search User" width="280"/> <img src="screenshots/search_user.png" alt="Search User" width="280"/> <img src="screenshots/user_details.png" alt="User Details" width="280"/> <img src="screenshots/favorites.png" alt="Favorites" width="280"/> <img src="screenshots/dark_mode.png" alt="Dark Mode" width="280"/>
 
 ## Contributing
 
